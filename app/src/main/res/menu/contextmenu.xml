@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group>
+        <item android:id="@+id/deletItems"
+            android:title="删除记录"
+            android:icon="@drawable/delete"
+            />
+        <item
+            android:id="@+id/moveGroups"
+            android:icon="@drawable/move_up"
+            android:title="移动分组" />
+    </group>
+</menu>
